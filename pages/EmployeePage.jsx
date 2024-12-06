@@ -1,12 +1,12 @@
 
 import React from "react";
 
-function Homepage() {
+function EmployeePage() {
     return (
         <div style={{ border: '2px solid red' }}>
-            Homepage
+            EmployeePage
 
         </div>
     )
 }
-export default Homepage;
+export default EmployeePage;

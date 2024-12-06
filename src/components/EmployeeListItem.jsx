@@ -4,7 +4,7 @@ function EmployeeListItem() {
     return (
         <div>
            
-           Hello EmployeeListItem
+           EmployeeListItem
 
         </div>
     )
